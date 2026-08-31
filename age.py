@@ -9,7 +9,7 @@ def guess_age():
         if answer == "y":
             break
         else:
-            print('Rats.')
+            print('Rats. Let me try again!')
     print(f"{name} is {age} years old.")
     
 
