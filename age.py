@@ -1,7 +1,7 @@
 import random
 def guess_age():
     print("Hello!")
-    name = input("What is your name?")
+    name = input("What is your name? ")
     answer = ""
     while answer != "y":
         age = random.randint(15,40)
