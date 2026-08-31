@@ -1,0 +1,3 @@
+Date: 8/30/2026 Subject: tryhard.tech distribution. 
+
+I spent the summer working on personal projects with AI agents. This has led me to realize there isn't any Leetcode equivalent for agentic coding. There is no way to test or rank swe skills besides watching them code, and no easy way to tell who is the best at using agents. So, I started building this website, tryhard.tech. It allows users to login to a secure vm Codex session and test themselves with a timed coding task. My biggest issue with this site has been getting anyone to notice. Hopefully, if i post more about it in the right circles, at the right moments, users will come.
