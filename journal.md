@@ -17,3 +17,13 @@ Date 9/21/2026 Subject: C++ and Usage Limits
 This was an interesting period since I last journaled. I had my 29th birthday, didn't do anything special. My wife's friend came and visited for a week and it was quite disruptive. It did enable me to finally stop by Jeff's office hours just in time for the C++ test, and now i'm caught up in C++ class. I've been catching up in my other classes including this one, and dropped one that felt like it was dragging the rest of the classes down.
 
 I am a proud codex pro max user and the reset FOMO really gets to me. OpenAI restricting new signups on this plan has made this much worse. I am constantly searching for new use cases to get my money's worth. I simultaneously kept it running my 3d printer, building 3d models in blender, searching ebay for viable SKUs, building iOS apps, along with any other task i can think to throw at it.Using it this way i burn 40% of my weekly usage in an hour. With banked resets, natural resets, and all the other resets OpenAI has given out, I frequently go through these periods wehre i "need" to burn usage like this to maximize the value i get, and then periods right after a reset where i'm conserving usage and not touching it at all.
+
+
+
+Date 10/04/2026 Subject: Business automation, Content creation, SWE class
+
+Had an interesting last week or 2. Made some progress on my eBay/printing business. I started it with the idea that AI would be the one managing the business making it a semi-passive venture. So far it has worked out very well. It's started to freeup time that i'm able to focus on other things again.
+
+I decided to start making content comparing different frontier AI tools because this appears to be an underserved niche and creators are doing well here, and I'm a good fit because I keep up with it constantly and might as well put that info to good use. An example will be comparing 6.1 Sol usage limits to Opus 5.5 to see where the value is now that OpenAI has slashed their plans in half.
+
+I got to be the Scrum Master for the week in CS2450. I really appreciate this. I've had most of the technical skills required to get hired or make products, but I have absolutely no team experience and no professional experience. Things like standups, Kanban, scrum master, agile, these are terms i'm familiar with and have heard mentioned, but I have never had to show competence related to them and have been actuely aware of this hole in my skillset. I have had offers to interview I turned down because I feared I woulnd't be able to work with a team. I bet I could have picked it up on the fly, but now I have the confidence from formal exposure to this stuff.
