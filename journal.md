@@ -31,3 +31,16 @@ I got to be the Scrum Master for the week in CS2450. I really appreciate this. I
 
 Date 10/11/2026 Subject: Agentic Programming
 I used Codex to fix the empty username and password issue in our YouFace project. I asked it to pull first, inspect the existing code, create a separate branch, and show me the changes. It added validation in the login form and on the server, including rejecting inputs that are just spaces. One useful takeaway was that checking the form alone isn't enough because requests can bypass it. Working in a separate branch also kept this fix from interfering with the team's other work.
+
+
+
+Date 10/11/2026 Subject: Agentic Engineering 
+I have treated agents like a team of junior engineers for almost a year now. instead of going back and forth, i delegate my todo list across agents, and for complex tasks i will have one high-inference agent utiltizesubagents to get the work done in parallel. Combined with recent improvements in model capability this allows me to go straight from imagined idea to workable prototype just from a prompt.
+
+Last night I decided I wanted to play GTA 5 natively on all my iOS devices, so i told Codex/Claude to compare decompilations on github and find me the best candidate, and then to build my emulator features (120hz modes, cloud sync via iCloud, etc.) into the front end and VR features into the backend (udpated cameras, renderer, etc). Today, I have a working apple vision port of GTA 5 in web assembly, running on ARM, translated to metal. This would not have been a feasible task just a few months ago.
+
+The cost of building an idea is almost nothing. This means any time I think of an app, 3d print, game-mod, or other idea there is almost instant feedback and validation for that idea. Combined with recent advancements in computer-use, and these things can do almost anything on the computer now. I am in a weird spot where I feel ahead of most people on this so I have a hard time translating the leverage into tangible gains outside of optimizations. It's not that I like AI so much, it's that I see the eleverage in delegating almost braznely while others are still deciding what this is. I still have to come up with the ideas and I'm still bottlenecked by traditional things like investors/education/recruiting requirements.
+
+I find myself in quite the bind. I have had recruiters contact me for work i've posted online, but fear without a degree or leetcode grind i won't pass their interviews. I value BEING ABLE to read the code and understanding what's going on at every layer, but also increasingly believe it's not necessary. I do not read the code when working with agentic tools, and I do not see how reading it meaningfully move the needle. So sticking in school to learn more CS feels backwards to me.
+
+In the meantime, I'm just trying to keep building more and more ambitiou projects, and keep up with school while i'm in it. I have about 2 years worth of math classes keeping me from graduating. I've already had success with some indie work made this way, but it's quite inconsistent and surprisingly difficult.
