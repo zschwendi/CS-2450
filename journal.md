@@ -44,3 +44,13 @@ The cost of building an idea is almost nothing. This means any time I think of a
 I find myself in quite the bind. I have had recruiters contact me for work i've posted online, but fear without a degree or leetcode grind i won't pass their interviews. I value BEING ABLE to read the code and understanding what's going on at every layer, but also increasingly believe it's not necessary. I do not read the code when working with agentic tools, and I do not see how reading it meaningfully move the needle. So sticking in school to learn more CS feels backwards to me.
 
 In the meantime, I'm just trying to keep building more and more ambitiou projects, and keep up with school while i'm in it. I have about 2 years worth of math classes keeping me from graduating. I've already had success with some indie work made this way, but it's quite inconsistent and surprisingly difficult.
+
+
+
+Date: 10/19/2026    Subject: The Times
+
+This last week was fascinating. I opened X (formerly Twitter) to see a polymarket ad for the Tesla Roadster event. it said 57% odds that the car would fly >1s. My wife just came into some inheritance and I had to restrain myself from putting it all on that - it was a ridiculous bet and I had nothing except the odds telling me I should do it.
+
+Later that night we got to see the Tesla Roadster do its stunts. Then, right after, we had the iPhone Duo pre-orders. I realized these were oging to be supply constrained and practically stayed up all night to get some. 6:00am the pre-orer rolled around and I didn't get in for 5 mintues. I ended up getting 2 in that will come in November, telling myself i'll resell them. I want to keep them. As I write this i realize that each one costs more than I've ever spent on a computer, only if just barely. That's insane for a phone.
+
+It's clear there was a real stagnation in tech. It feels like there is something in the air right now between the AI race, the Roadster, and the iPhone Duo. Maybe I'm just the target consumer for this kind of marketing. I think it's more like the whimsy and spectacle of tech keynotes or releases or even the products themselves seems to be present in a way that has been missing for many years.
