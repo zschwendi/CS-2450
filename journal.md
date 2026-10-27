@@ -54,3 +54,20 @@ This last week was fascinating. I opened X (formerly Twitter) to see a polymarke
 Later that night we got to see the Tesla Roadster do its stunts. Then, right after, we had the iPhone Duo pre-orders. I realized these were oging to be supply constrained and practically stayed up all night to get some. 6:00am the pre-orer rolled around and I didn't get in for 5 mintues. I ended up getting 2 in that will come in November, telling myself i'll resell them. I want to keep them. As I write this i realize that each one costs more than I've ever spent on a computer, only if just barely. That's insane for a phone.
 
 It's clear there was a real stagnation in tech. It feels like there is something in the air right now between the AI race, the Roadster, and the iPhone Duo. Maybe I'm just the target consumer for this kind of marketing. I think it's more like the whimsy and spectacle of tech keynotes or releases or even the products themselves seems to be present in a way that has been missing for many years.
+
+
+
+
+Date: 10/26/26      Subject: Apps and FOMO
+
+I've been really getting into porting every title i can onto my apple devices. I realized it's a neat addition for my portfolio, but I also just like doing it. I was on the verge of selling my vision pro and had already sold some developer accessories I didn't need. Turns out using AI to brute force really has made it feel worthwhile again.
+
+This is in the midst of the iPhone Duo launch and my attempt to rush my app Peel Pro out to market for it in time. I launched it on vision pro in June after 6 hard months of work. I had a lot of pressure on that release because Apple had reached out in January due to it's product demo. i felt nowhere near ready for that role and felt my flimsy demo was not ready to be picked apart in an interview etc. I've come to see this differently now but think I'm in a better place to try again.
+
+Anyways I have not released the app on iphone or ipad despite having had these apps ready all year. I used the vision pro market as a testing grounds - they are more forgiving (and frankly desparte for) new software, plus there is a decent subset of that market that does not care about price to try a new expereince. I tried to rush it out for this iPhone Duo launch all October and haven't gotten it where I want.
+
+This is because I let scope creep take it from a remote desktop/app-streaming concept into an AI-computer-use layer on top of trying to compete with the best macOS streaming, adding new platforms to the mix like windows and linux hosts. Oh and then just about every side project utility i built over the summer for my macs ended up rolled into this product. Rightfully so - they all compliment the core product which is controlling anything and montioring everything, without disturbing the systems underneath. I added in AI usage tracking, AI LED notification systems, A fully rebuilt Activity Monitor style utility, and baked it all into the Notch.
+
+Even just typing this out shows the scope creep. I didn't realize it grew into so much. 
+
+By the time i realized i was not going to get a test device on launch and that the app was not going to be ready across all devices, I was able to back off... and have just been porting every open world game rather than finishing the real work, or even staying caught up with school. Not sure what the moral of this story is, probably something about avoiding this kind FOMO tokenmaxxing-induced AI-psychosis.  
